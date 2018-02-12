@@ -1,5 +1,1 @@
 # dotfiles
-
-## Aliases
-
-## Prompt
