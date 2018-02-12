@@ -32,7 +32,8 @@ in the `.bash_profile` file I've inserted an `echo`. This will print my welcome 
 
 I have inserted the following code:  
 `echo "Is that a police?, I'm calling the weed!"`  
-I have decided to use 'memes' in my welcome message to cheer myself up, whatever my mood might be. [Click here](https://www.youtube.com/watch?v=GAxD39rGUeE) to discover the meme I have used.
+I have decided to use 'memes' in my welcome message to cheer myself up, whatever my mood might be.  
+[Click here](https://www.youtube.com/watch?v=GAxD39rGUeE) to discover the meme I have used.
 
 
 
