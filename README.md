@@ -2,6 +2,7 @@
 In this `README.md` I will show you what kind of Aliases I am using and how I configured them.
 
 ### Aliases
+>Je moeder
 
 ### Prompt
 
