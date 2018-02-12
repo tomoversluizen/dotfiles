@@ -20,7 +20,11 @@ I use this alias to quick-jump to my Raspberry Pi, using a SSH connection.
 I find this a convenient and quick way to switch between branches.
 
 ### Prompt
-I wanted to have a simple and logical prompt for my terminal. I have used the following code:  
+I wanted to have a simple and logical prompt for my terminal.
+
+First of all, I have used `nano .bash_profile` to edit the my prompt.
+
+I have used the following code:  
 `parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
@@ -32,7 +36,7 @@ in the `.bash_profile` file I've inserted an `echo`. This will print my welcome 
 
 I have inserted the following code:  
 `echo "Is that a police?, I'm calling the weed!"`
-  
+
 I have decided to use 'memes' in my welcome message to cheer myself up, whatever my mood might be.  
 [Click here](https://www.youtube.com/watch?v=GAxD39rGUeE) to discover the meme I have used.
 
