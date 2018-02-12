@@ -19,6 +19,10 @@ I use this alias to quick-jump to my Raspberry Pi, using a SSH connection.
 `alias gco='git checkout'`  
 I find this a convenient and quick way to switch between branches.
 
+#### Result
+![.bashrc](bashrc.png)
+
+
 ### Prompt
 I wanted to have a simple and logical prompt for my terminal.
 
@@ -30,6 +34,10 @@ I have used the following code:
 }
 export PS1="\ Tom \[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "`  
 
+#### Result
+![.bash_profile](bash_profile.png)
+
+
 ### Welcome Message
 
 in the `.bash_profile` file I've inserted an `echo`. This will print my welcome message to my terminal, every time when I start it.  
@@ -39,6 +47,10 @@ I have inserted the following code:
 
 I have decided to use 'memes' in my welcome message to cheer myself up, whatever my mood might be.  
 [Click here](https://www.youtube.com/watch?v=GAxD39rGUeE) to discover the meme I have used.
+
+#### Result
+
+![]
 
 
 
