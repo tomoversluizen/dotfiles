@@ -25,7 +25,7 @@ I find this a convenient and quick way to switch between branches.
 ### Prompt
 I wanted to have a simple and logical prompt for my terminal.
 
-First of all, I have used `nano .bash_profile` to edit the my prompt.
+First of all, I have used `nano .bash_profile` to edit my prompt.
 
 I have used the following code:  
 `parse_git_branch() {
