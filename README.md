@@ -20,8 +20,7 @@ I use this alias to quick-jump to my Raspberry Pi, using a SSH connection.
 I find this a convenient and quick way to switch between branches.
 
 #### Result
-![.bashrc](bashrc.png)
-
+![.bashrc](bashrc2.png)
 
 ### Prompt
 I wanted to have a simple and logical prompt for my terminal.
@@ -46,7 +45,6 @@ I have decided to use 'memes' in my welcome message to cheer myself up, whatever
 [Click here](https://www.youtube.com/watch?v=GAxD39rGUeE) to discover the meme I have used.
 
 #### Result
-
 ![.bash_profile](bash_profile.png)
 
 
