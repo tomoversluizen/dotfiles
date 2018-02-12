@@ -34,9 +34,6 @@ I have used the following code:
 }
 export PS1="\ Tom \[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "`  
 
-#### Result
-![.bash_profile](bash_profile.png)
-
 
 ### Welcome Message
 
@@ -50,7 +47,7 @@ I have decided to use 'memes' in my welcome message to cheer myself up, whatever
 
 #### Result
 
-![]
+![.bash_profile](bash_profile.png)
 
 
 
